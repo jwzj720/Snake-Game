@@ -1,0 +1,2 @@
+# Project Overview
+This is a collection of pathfinding algorithms that have been implemented in a classic game of snake. To run, in a shell type "python snake_basic.py [algorithm type] [number of desired obsticles]. This code was put together by Walt Jones, and some game mechanic code was taken from Professor Cory Scott from his Data Structures Class.
